@@ -1,0 +1,180 @@
+{
+    "1 Plenum Level 1 (Unconditioned)": [
+        "1 Plenum Level 1"
+    ],
+    "2 Plenum Level 2 (Unconditioned)": [
+        "2 Plenum Level 2"
+    ],
+    "3 Plenum Level 3 (Unconditioned)": [
+        "3 Plenum Level 3"
+    ],
+    "PERIMETER_BOT_ZN_3": [
+        "101 Lounge",
+        "112 Conference Room",
+        "113 Private Office",
+        "114 Private Office",
+        "134 Private Office",
+        "135 Conference Room"
+    ],
+    "CORE_BOT": [
+        "102 Lobby",
+        "103 Lobby",
+        "104 Stairwell",
+        "105 Stairwell",
+        "106 Mechanical",
+        "107 Mechanical",
+        "108 Bathroom",
+        "109 Storage",
+        "110A Open Office",
+        "110B Open Office",
+        "110C Open Office",
+        "111 Hallway",
+        "121 Storage",
+        "123 Dining Room",
+        "124 Storage",
+        "125A Open Office",
+        "125B Open Office",
+        "126 Hallway",
+        "136 Storage",
+        "137 Bathroom",
+        "227M Shaft",
+        "227N Shaft",
+        "1 Elevator",
+        "2 Elevator"
+    ],
+    "PERIMETER_BOT_ZN_4": [
+        "115 Private Office",
+        "116 Private Office",
+        "117 Private Office",
+        "118 Private Office",
+        "119 Private Office",
+        "120 Private Office"
+    ],
+    "PERIMETER_BOT_ZN_1": [
+        "122A Open Office",
+        "122B Open Office",
+        "122C Open Office",
+        "127 Private Office"
+    ],
+    "PERIMETER_BOT_ZN_2": [
+        "128 Private Office",
+        "129 Private Office",
+        "130 Private Office",
+        "131 Private Office",
+        "132 Private Office",
+        "133 Private Office"
+    ],
+    "CORE_MID": [
+        "201 Lobby",
+        "202 Stairwell",
+        "203 Mechanical",
+        "204 Bathroom",
+        "205 Storage",
+        "206 Storage",
+        "207 Storage",
+        "208 Storage",
+        "209 Hallway",
+        "210 Dining Room",
+        "211 Conference Room",
+        "212 Storage",
+        "213 Lounge",
+        "214 Bathroom",
+        "215 Mechanical",
+        "216 Stairwell",
+        "227A Open Office",
+        "227B Open Office",
+        "227K Shaft",
+        "227L Shaft",
+        "229A Open Office",
+        "229B Open Office",
+        "3 Elevator",
+        "4 Elevator"
+    ],
+    "PERIMETER_MID_ZN_1": [
+        "217A Open Office",
+        "217B Open Office",
+        "217C Open Office",
+        "217D Open Office"
+    ],
+    "PERIMETER_MID_ZN_2": [
+        "218A Open Office",
+        "218B Open Office",
+        "218C Open Office",
+        "219 Conference Room"
+    ],
+    "PERIMETER_MID_ZN_3": [
+        "220 Private Office",
+        "221 Private Office",
+        "222 Private Office",
+        "223 Private Office",
+        "224 Private Office",
+        "225 Private Office",
+        "226 Conference Room"
+    ],
+    "CORE_TOP": [
+        "227I Shaft",
+        "227J Shaft",
+        "301 Lobby",
+        "302 Stairwell",
+        "303A Open Office",
+        "303B Open Office",
+        "303C Open Office",
+        "303D Open Office",
+        "304 Mechanical",
+        "305 Bathroom",
+        "306 Library",
+        "317 Conference Room",
+        "319 Storage",
+        "321 Lounge",
+        "323 Dining Room",
+        "325 Storage",
+        "326 Storage",
+        "327 Hallway",
+        "331 Storage",
+        "333 Storage",
+        "334 Storage",
+        "335 Storage",
+        "336 Bathroom",
+        "337 Mechanical",
+        "338 Stairwell",
+        "339 Storage",
+        "5 Elevator",
+        "6 Elevator"
+    ],
+    "PERIMETER_MID_ZN_4": [
+        "228A Open Office",
+        "228B Open Office",
+        "228C Open Office"
+    ],
+    "PERIMETER_TOP_ZN_3": [
+        "307 Private Office",
+        "340A Open Office",
+        "340B Open Office",
+        "340C Open Office"
+    ],
+    "PERIMETER_TOP_ZN_4": [
+        "308 Private Office",
+        "309 Private Office",
+        "310 Private Office",
+        "311 Private Office",
+        "312 Private Office",
+        "313 Private Office"
+    ],
+    "PERIMETER_TOP_ZN_1": [
+        "314 Private Office",
+        "315 Private Office",
+        "316 Private Office",
+        "318 Private Office",
+        "320 Private Office",
+        "322 Private Office",
+        "324 Private Office",
+        "328 Conference Room",
+        "329 Private Office"
+    ],
+    "PERIMETER_TOP_ZN_2": [
+        "330 Private Office",
+        "332 Private Office",
+        "341A Open Office",
+        "341B Open Office"
+    ]
+}
